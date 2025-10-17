@@ -42,6 +42,7 @@ end
 Thank you, I hope we were able to be of assistance
 
 Lost package example:
+
 What can I help you with?
 
 Type 'product' for help with choosing a product,  'lost'  for help with a lost package,  'trouble'  for help with a technical problem or 'end' to finish this session
