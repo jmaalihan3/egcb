@@ -8,7 +8,7 @@ def parse_string(s):
 
 # Checks for valid product number
 def valid_prodnum(x):
-    return re.search(r"\d{4}", x) is not None
+    return (re.search(r"\d{4}", x) is not None) and (len(x) == 4)
 
 def main():
 
@@ -92,3 +92,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
