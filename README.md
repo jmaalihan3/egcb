@@ -8,6 +8,7 @@ Usage:
 
 This simple customer service chatbot prompts the user for text input and uses keyword search to progress the conversation. There are limited conversation paths and only the laptop ordering path is fully realized.
 
+
 Laptop order example with error handling:
 What can I help you with?
 
@@ -40,6 +41,8 @@ Type 'product' for help with choosing a product,  'lost'  for help with a lost p
 >end
 
 Thank you, I hope we were able to be of assistance
+
+
 
 Lost package example:
 
