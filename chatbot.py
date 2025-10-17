@@ -29,6 +29,8 @@ def main():
     end = "Thank you, I hope we were able to be of assistance \n"
 
     user = ""
+
+    # Main Chat loop
     while (True):
         print("What can I help you with?")
         step = 1
@@ -92,4 +94,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
