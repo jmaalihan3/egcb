@@ -57,7 +57,3 @@ Type 'product' for help with choosing a product,  'lost'  for help with a lost p
 >end
 
 Thank you, I hope we were able to be of assistance
-
->end
-
-Thank you, I hope we were able to be of assistance
