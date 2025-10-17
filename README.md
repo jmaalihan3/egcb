@@ -10,6 +10,7 @@ This simple customer service chatbot prompts the user for text input and uses ke
 
 
 Laptop order example with error handling:
+
 What can I help you with?
 
 Type 'product' for help with choosing a product,  'lost'  for help with a lost package,  'trouble'  for help with a technical problem or 'end' to finish this session
